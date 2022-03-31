@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Conditional_Statements2", "Conditional_Statements2\Conditional_Statements2.pyproj", "{123A44E4-219F-45A6-9536-68F528DEF6FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{123A44E4-219F-45A6-9536-68F528DEF6FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{123A44E4-219F-45A6-9536-68F528DEF6FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC08FCF6-BAB8-4B70-80E8-9D02560C3B79}
+	EndGlobalSection
+EndGlobal
